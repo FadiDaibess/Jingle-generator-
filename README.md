@@ -1,6 +1,6 @@
 # Jingle-generator-
 
-Requirments: 
+Requirements: 
 ---------------
 1. Breadboard
 2. Jumper wire
