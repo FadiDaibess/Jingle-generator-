@@ -10,7 +10,7 @@ Requirements:
 6. Microcontroller e.g Arduino Nano
 
    
-You just need to replace the board’s output number at the top of the code with your board’s output port number.
+You just need to replace the board’s output pins number at the top of the code with your board’s output pins number.
 
 // define pins 
 
