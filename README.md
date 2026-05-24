@@ -1,7 +1,7 @@
 # Jingle-generator-
 
 Requirments: 
-
+---------------
 1. Breadboard
 2. Jumper wire
 3. 3x LEDs (Red, Green, Yellow).
