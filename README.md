@@ -13,6 +13,7 @@ Requirments:
 You just need to replace the board’s output number at the top of the code with your board’s output port number.
 
 // define pins 
+
 const int buzzerPin = 2;
 const int ledLow = 4;  
 const int ledMid = 5;   
