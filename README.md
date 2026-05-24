@@ -1,6 +1,6 @@
 # Jingle-generator-
 
-Requirements: 
+**Requirements**: 
 ---------------
 1. Breadboard
 2. Jumper wire
@@ -19,4 +19,5 @@ const int ledMid = 5;
 const int ledHigh = 6;   
 const int buzzerPin = 2;
 
-
+**Video**: 
+----------
