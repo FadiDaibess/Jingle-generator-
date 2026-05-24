@@ -14,10 +14,9 @@ You just need to replace the board’s output number at the top of the code with
 
 // define pins 
 
-const int buzzerPin = 2;
 const int ledLow = 4;  
 const int ledMid = 5;   
 const int ledHigh = 6;   
-
+const int buzzerPin = 2;
 
 
